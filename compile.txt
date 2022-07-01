@@ -1,0 +1,1 @@
+g++ charged_W.cc -o charged_W -lgsl -lgslcblas `lhapdf-config --cflags --ldflags`
